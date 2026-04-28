@@ -1,0 +1,5 @@
+#!/bin/bash
+set -e
+
+# Install the local mlab-iqb library (workspace dependency not on PyPI)
+pip install -e ./library --no-deps
