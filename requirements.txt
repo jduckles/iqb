@@ -81,7 +81,7 @@ matplotlib==3.10.8
 matplotlib-inline==0.2.1
 mdurl==0.1.2
 mistune==3.2.0
--e file:///Users/jduckles/tmp/iqb/library
+-e ./library
 narwhals==2.19.0
 nbclient==0.10.4
 nbconvert==7.17.1
